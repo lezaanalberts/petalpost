@@ -7,17 +7,6 @@ body{
   display: block;
   text-align: center;
 }
-.divider{
-  width: 1040px;
-  max-width: 1050px;
-  height: auto;
-  object-fit: cover;
-  text-align: center;
-  justify-content: center;
-  margin-left: 10px;
-  margin-right: 10px;
-
-}
 
 .welcome{
   margin-top: 4px;
