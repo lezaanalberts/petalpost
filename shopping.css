@@ -8,14 +8,15 @@ body{
   text-align: center;
 }
 .divider{
-  width: 1050px;
-  height: 100px;
+  width: 1040px;
   max-width: 1050px;
-  max-height: 100px;
+  height: auto;
   object-fit: cover;
+  text-align: center;
   justify-content: center;
   margin-left: 10px;
   margin-right: 10px;
+
 }
 
 .welcome{
@@ -30,6 +31,7 @@ body{
   font-family: arial;
   display: inline-block;
   vertical-align: top;
+  height: 703.3px;
 }
 .full {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
